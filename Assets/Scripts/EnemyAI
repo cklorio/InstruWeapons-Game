@@ -1,5 +1,7 @@
 using UnityEngine;
 
+// bukon final 
+
 public class BossAI : MonoBehaviour
 {
     public float speed = 1f;
